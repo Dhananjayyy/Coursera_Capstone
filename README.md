@@ -1,39 +1,26 @@
-<p align="center">
-  <img src="accepted.png" alt="drawing" width="500"/>
-</p>
-<h2 align="center"> Android Basics By Google </h2>
+<h2 align="center"> IBM Data Science Specialization by Coursera </h2>
 
-> This Nanodegree program was given to me by the **"Google India Scholarship Challenge"** program from Udacity.
-I completed this course in due time. It was thanks to my prior knowledge of developing and programming.
-Now, i've become a mobile developer for Android.
-These skills are precious to me.
-
+> I got 1st month complimentary on IBM's Data Science Professional Certificate subscription on Coursera when I joined IBM's Data Science Community. This initiative was IBM's response to Covid-19. Completed the specialization in one month with focus and commitment. Learned a lot. Project information coming soon!
 ---
 
-<a href="https://www.udacity.com/course/android-basics-nanodegree-by-google--nd803">Click to view this nanodegree on Udacity</a>
+
 
 <p align="center">
-  <img src="certificate.svg" alt="drawing"/>
+  <a href="https://coursera.org/share/ba0f0dcebca81663024457e9bd3c7685">Click to verify this certificate</a>
 </p>
 
-### Projects:
+IBM Data Science    |
+:-------------------------:|
+![](certificates/pro_certificate.jpg) |
 
-Project 1 - Build a Single Screen App
+What is Data Science?      |  Tools for Data Science   | Data Science Methodology
+:-------------------------:|:-------------------------:|:-------------------------:
+![](certificates/cert1.jpg) |  ![](certificates/cert2.jpg) | ![](certificates/cert3.jpg)
 
-Project 2 - Score Keeper App
+Python for Data Science and AI | Databases and SQL for Data Science | Data Analysis with Python
+:-------------------------:|:-------------------------:|:-------------------------:
+![](certificates/cert4.jpg) |  ![](certificates/cert5.jpg) | ![](certificates/cert6.jpg)
 
-Project 3 - Quiz App
-
-Project 4 - Musical Structure App
-
-Project 5 - Report Card App
-
-Project 6 - Tour Guide App
-
-Project 7 - Book Listing App
-
-Project 8 - News App
-
-Project 9 - Habit Tracker App
-
-Project 10 - Inventory App
+Data Visualization with Python | Machine Learning with Python | Applied Data Science Capstone
+:-------------------------:|:-------------------------:|:-------------------------:
+![](certificates/cert7.jpg) |  ![](certificates/cert8.jpg) | ![](certificates/cert9.jpg)
